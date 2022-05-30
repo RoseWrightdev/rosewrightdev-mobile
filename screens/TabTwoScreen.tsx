@@ -9,7 +9,6 @@ export default function TabTwoScreen() {
       <Text style={styles.title}>Contact Me</Text>
       <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
       <Text style={styles.paragraph}>Want me on your project? Don't be afraid to shoot me an email! I am a freelancer but I am open to all offers preferring part-time, and internship positions.</Text>
-      <EditScreenInfo path="/screens/TabTwoScreen.tsx" />
     </View>
   );
 }
